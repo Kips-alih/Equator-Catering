@@ -1,7 +1,7 @@
 h1{
   color: orange;
 }
-.row p{
+.row>p{
   text-align: center;
 }
 
